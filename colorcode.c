@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <assert.h> // Ensure assert.h is included
 #include "colorcode.h"
 
 const char* MajorColorNames[] = {
